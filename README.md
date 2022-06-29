@@ -7,3 +7,4 @@ em diferentes resoluções e melhor se aproximar do comportamento real de respon
 
 ## Proposta de melhoria:
   - [ ] Dark mode.
+  - [ ] Pagina de login.
